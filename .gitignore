@@ -1,22 +1,7 @@
 # This .gitignore file should be placed at the root of your project directory
 #
-
-/Workfiles/Mesh/gcts_lidar Support/
-/mkstudios-airport-gcts-workplace/_PackageInt/
-/mkstudios-airport-gcts-workplace/Packages/
+/mkstudios-airport-gcxo-workplace/_PackageInt/
+/mkstudios-airport-gcxo-workplace/Packages/
 Marketplace/mkstudios-airport-gcts.zip
-Community/mkstudios-airport-gcts.zip
-*.rcp
-*.rcs
-*.blend[1-99]
-*_autosave_[0-99].spp
-Community/mkstudios-airport-gcts-tenerife-south.zip
-Marketplace/mkstudios-airport-gcts-tenerife-south.zip
-workfiles/mesh/sources/runway_bridge.las
-workfiles/Extras/Satellite/mk_gcts_15cm.tif
-workfiles/Satellite/mk_gcts_15cm.prj
-workfiles/Satellite/mk_gcts_15cm.tfw
-workfiles/Satellite/mk_gcts_15cm.tif
-Workfiles/Satellite/mk_gcts_30cm.tif
-mkstudios-airport-gcts-workplace/mkstudios-airport-gcts.xml.user
-mkstudios-airport-gcts-workplace/PackagesMetadata/mkstudios-airport-gcts-reinasofia/mkstudios-airport-gcts-reinasofia.json
+Community/mkstudios-airport-gco.zip
+Community/mkstudios-airport-gcxo-losrodeos.zip

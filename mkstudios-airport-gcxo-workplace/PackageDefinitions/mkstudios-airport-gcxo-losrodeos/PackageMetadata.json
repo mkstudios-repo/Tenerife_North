@@ -1,0 +1,16 @@
+{
+  "business": {
+    "PriceInUSD": 19.989999771118164,
+    "ThirdPartyShortName": "mkstudios",
+    "AccountSellerId": "71684950",
+    "UseFirstAvailableReleaseDate": true
+  },
+  "marketplace": {
+    "sections": [
+      {
+        "category": "Airports",
+        "section": "Airports"
+      }
+    ]
+  }
+}

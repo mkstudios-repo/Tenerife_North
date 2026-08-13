@@ -1,0 +1,68 @@
+{
+  "market-data": {
+    "Neutral": {
+      "creator": "MK-STUDIOS",
+      "title": "GCXO Tenerife North Airport",
+      "description": "Welcome to Tenerife, the largest and most populous island of the Canary Islands.\n\nThe island of Tenerife has two airports: the Tenerife North Airport (or Los Rodeos) and Tenerife South Airport (also known as Tenerife South-Reina Sofia Airport in honor of the former Queen of Spain). The south airport is situated in a tourist area, and therefore is the busiest, having hundreds of connections to different parts of the world. Tenerife North Airport operates mostly domestic flights between the islands of the archipelago.\nIn this package we recreated these two airports, GCTS and GCXO and added few POIs with custom satellite image and mesh. \n\nThe airports are known for their difficult weather conditions making every approach challenging. In the north, you'll frequently meet low clouds, fog, and rain. In the south on the other hand wind gusts, sandstorms, and wind shears.\nWatch out for Calima and extremely high temperatures combined with low visibility.\n\nFeatures:\n- High-quality rendition of Tenerife South Airport GCTS,\n- High-quality rendition of Tenerife North Airport GCXO,\n- Satellite coverage around the airports,\n- Detailed mesh for the airports' area,\n- Custom POIs around the island.",
+      "support-contact": "http:\/\/www.mkstudios.pl\/support",
+      "tags": "MK,SPAIN,GCXO,GCTS,TENERIFE",
+      "media-backgrounds": [
+        "background_tenerife.jpg,background_tenerife.jpg"
+      ],
+      "blocks": [
+        {
+          "type": "MEDIASLIDER",
+          "data": {
+            "medias": [
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-169_43_29PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-169_46_02PM1.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_12_47PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-169_45_36PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-169_46_23PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-169_47_04PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-169_48_04PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_02_17PM1.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_02_50PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_12_29PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_11_43PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_05_33PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_07_27PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_08_40PM.jpg"
+              },
+              {
+                "thumbnail": "MicrosoftFlightSimulator2022-06-1610_08_53PM.jpg"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
