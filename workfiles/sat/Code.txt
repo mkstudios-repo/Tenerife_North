@@ -1,0 +1,1 @@
+msfs aerial -imagery "W:\Repos\Tenerife_MSFS\Workfiles\Satellite\mk_gcts_30cm.tif" -border "W:\Repos\Tenerife_MSFS\Workfiles\Satellite\mk_gcts_cgl_range.kmz" -level 18 -blend 20 "W:\Repos\Tenerife_MSFS\mkstudios-airport-gcts-workplace\PackageSources\mkstudios-gcts-CGL\aerial"
